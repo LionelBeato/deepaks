@@ -12,6 +12,12 @@ public class Inventory {
 		inventHash.put(3432, "Car 1");
 		inventHash.put(1232, "Car 2");
 		inventHash.put(4562, "Car 3");
+		inventHash.put(6435, "Car 4");
+		inventHash.put(7753, "Car 5");
+		inventHash.put(8653, "Car 6");
+		inventHash.put(2451, "Car 7");
+		inventHash.put(1764, "Car 8");
+		inventHash.put(6621, "Car 9");
 		
 		return inventHash;
 		
