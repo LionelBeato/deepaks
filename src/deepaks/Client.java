@@ -3,12 +3,14 @@ package deepaks;
 import java.util.*;
 
 public class Client {
-	//TODO: private string attributes
+	//private attributes
 	private String name;
 	private String phoneNumber;
 	private String address;
 	private String email;
 	private ArrayList<String> carChoices;
+	
+	//setters and getters for all private vehicle attributes 
 	public ArrayList<String> getCarChoices() {
 		return carChoices;
 	}
@@ -38,10 +40,6 @@ public class Client {
 	}
 	public void setName(String name) {
 		this.name = name;
-	}
-	
-	
-	//TODO: setters and getters
-	
+	}	
 	
 }

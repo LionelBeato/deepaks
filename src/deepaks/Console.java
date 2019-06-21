@@ -9,6 +9,8 @@ public class Console {
 		return welcome;
 	}
 	
+	//the control shouldn't be deptChoice but employee.department input should be username and password 
+	
 	public void deptChoice(String input) {
 		//sends to FrontDesk
 		if (input == "Front Desk") {
